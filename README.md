@@ -1,1 +1,1 @@
-<h1>JavaScript</h1><p>snippets written while learning and practicing</p>
+<h1>JavaScriptsnippets</h1> <p>written while learning and practicing</p>
